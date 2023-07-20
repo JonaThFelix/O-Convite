@@ -1,4 +1,4 @@
-# oDate_Customtkinter
+# O Convite
 Estudo aleatório acerca das funções bind do Tkinter usando Python
 Botão flutuante
 
